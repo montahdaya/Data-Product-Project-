@@ -7,3 +7,6 @@ Dataset has been obtained from [the Coursera Reproducible Research Course site](
 Source code is available on the [GitHub](https://github.com/montahdaya/Data-Product-Project-).
 
 You can adjust date range and event types using control panel located on the left side. Filtered dataset can be downloaded using data tab.
+
+Montassar H'daya 
+Montassar.hdaya@gmail.com
