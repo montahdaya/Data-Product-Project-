@@ -79,7 +79,7 @@ shinyUI(
                             includeMarkdown("include.md")
                         )
                ),
-               tabPanel("Devloper : Montassar H'daya",
+               tabPanel("Developer",
                         mainPanel(
                             includeMarkdown("links.md")
                         )
